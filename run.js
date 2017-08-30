@@ -12,6 +12,5 @@ console.log(senaCardCa.back);
 console.log(senaCardMa.back);
 console.log(presClozeCard.fullText);
 console.log(presClozeCard.cloze);
-presClozeCard.removeCloze();
 console.log(presClozeCard.partialText);
-brokeClozeCard.removeCloze();
+console.log(brokeClozeCard.partialText);
